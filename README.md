@@ -2,6 +2,8 @@
 Modular level > stereo line out &amp; stereo aux send mixer (a friend of norns)
 4hp
 
+[View it on ModularGrid](https://www.modulargrid.net/e/other-unknown-saturn-return)
+
 Inputs:
 + L/R modular level signals
 + Line input
