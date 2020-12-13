@@ -29,6 +29,9 @@ Knobs:
 + Level control for modular input to mix
 + Level control for line input to mix
 
+Pin headers:
+support alternative I/O configurations, non-eurorack builds, and general experimentation!
+
 <img src="images/pcb1.png" height="300px"><img src="images/pcb2.png" height="300px"><img src="images/modular-grid-panel.jpg" height="300px">
 
 ## Build Instructions
