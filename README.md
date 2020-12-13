@@ -10,6 +10,8 @@ An module and idea based on [discussion in the norns I/O thread](https://lllllll
 
 [View it on ModularGrid](https://www.modulargrid.net/e/other-unknown-saturn-return)
 
+---
+
 Inputs:
 + L/R modular level signals
 + Line input
