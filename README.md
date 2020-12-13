@@ -1,10 +1,12 @@
 # saturn-return
+Send transmissions, listen for communication
+
 Modular level > stereo line out &amp; stereo aux send mixer (a friend of norns)
 4hp
 
 Modular Left and Right signals are fed through a voltage divider, tuned, and sent out into space.      
 Transmissions are received as stereo line signals.     
-Transmissions are tuned and combined with Signals (for recording and archiving).    
+Transmissions are tuned and combined with signals (for recording and archiving).    
 
 An module and idea based on [discussion in the norns I/O thread](https://llllllll.co/t/norns-audio-in-out-specs/30256/37?u=bmoren)
 
