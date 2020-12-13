@@ -396,8 +396,6 @@ Text Notes 2350 3200 0    50   ~ 0
 Line IN L
 Text Notes 9300 1700 0    50   ~ 0
 Line OUT R
-Text Notes 3250 1050 0    50   ~ 0
-NOTES:\n\nCan make it Intellijel 1u wide/highX eurorack height:   39.65mm X 128.5mm\n\nAlthough, it’s about 8hp, which is large, might be better to just to a 1u tile size PCB with 2x panels, one for 1U and one for == to the internal PCB dims?
 $Comp
 L thonkiconn_symbol:thonkiconn J5
 U 1 1 5FBA8710

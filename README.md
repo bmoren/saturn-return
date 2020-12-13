@@ -1,6 +1,9 @@
 # saturn-return
 Send transmissions, listen for communication
 
+
+<img src="images/assembled.jpg" height="400px">
+
 Modular level > stereo line out &amp; stereo aux send mixer (a friend of norns)
 4hp
 
@@ -26,7 +29,7 @@ Knobs:
 + Level control for modular input to mix
 + Level control for line input to mix
 
-<img src="pcb1.png" height="300px"><img src="pcb2.png" height="300px"><img src="panel.png" height="300px">
+<img src="pcb1.png" height="300px"><img src="images/pcb2.png" height="300px"><img src="images/modular-grid-panel.jpg" height="300px">
 
 ## Build Instructions
 1. (optional advanced preperation – use your multimeter to find matched resistor values R3=R7, R4=R8, R1=R2=R5=R6 )
