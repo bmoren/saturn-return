@@ -1,6 +1,8 @@
 # saturn-return
 Send transmissions, listen for communication
 
+## ** REV2 boards are  currently untested **
+
 
 <img src="images/assembled.jpg" height="400px">
 
