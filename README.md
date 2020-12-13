@@ -10,7 +10,7 @@ An module and idea based on [discussion in the norns I/O thread](https://lllllll
 
 [View it on ModularGrid](https://www.modulargrid.net/e/other-unknown-saturn-return)
 
----
+## I/O
 
 Inputs:
 + L/R modular level signals
@@ -36,7 +36,7 @@ Knobs:
 1. attach knobs
 1. done!
 
----
+## license 
 
 CC BY-SA 4.0     
 Build and use at your own risk! I am not responsible for any damage to self or otherwise that arises from using this project!
