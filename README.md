@@ -29,7 +29,10 @@ Knobs:
 + Level control for modular input to mix
 + Level control for line input to mix
 
-<img src="pcb1.png" height="300px"><img src="images/pcb2.png" height="300px"><img src="images/modular-grid-panel.jpg" height="300px">
+Pin headers:
+support alternative I/O configurations, non-eurorack builds, and general experimentation!
+
+<img src="images/pcb1.png" height="300px"><img src="images/pcb2.png" height="300px"><img src="images/modular-grid-panel.jpg" height="300px">
 
 ## Build Instructions
 1. (optional advanced preperation – use your multimeter to find matched resistor values R3=R7, R4=R8, R1=R2=R5=R6 )
