@@ -46,6 +46,15 @@ support alternative I/O configurations, non-eurorack builds, and general experim
 1. attach knobs
 1. done!
 
+## BOM
++ 2X [Thonkiconn Jacks](https://www.thonk.co.uk/shop/3-5mm-jacks/)
++ 3X [Thonkiconn Stereo Jacks](https://www.thonk.co.uk/shop/3-5mm-jacks/)
++ 2X [Alpha A10k dual gang potentiometers](https://www.thonk.co.uk/shop/alpha-9mm-pots-dshaft/)
++ 4X 10k Resistor
++ 2X 1k Resistor
++ 2X 2.2k Resistor
++ Optional: 4X 3 position 2.54mm pin header
+
 ## license 
 
 CC BY-SA 4.0     
